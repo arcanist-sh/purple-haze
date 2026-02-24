@@ -16,7 +16,7 @@ Add as a git submodule:
 
 ```bash
 cd your-zola-site
-git submodule add https://github.com/raskell-io/purple-haze themes/purple-haze
+git submodule add https://github.com/arcanist-sh/purple-haze themes/purple-haze
 ```
 
 In your `config.toml`:
